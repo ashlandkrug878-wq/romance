@@ -1,0 +1,2121 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "name": "瞐瞐",
+      "en": "Momo",
+      "date": "2024-07-06",
+      "city": "成都",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-1.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "三只眼睛",
+        "绷带长耳",
+        "裂心闪电",
+        "创可贴"
+      ],
+      "personality": "自我介绍强调三只眼睛与小星星，是首位拥有名字的小怪物。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251787759554706.html",
+      "recommendation": "保留三眼和绷带，做失眠陪伴或慢半拍短剧；商品简化细碎缠绕线。",
+      "products": [
+        "P001",
+        "P016",
+        "P029",
+        "P034",
+        "P035",
+        "P038",
+        "P057"
+      ],
+      "productFamilies": 7,
+      "individualFamilies": 3,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 2,
+      "name": "囧囧囧",
+      "en": "Jiongx3",
+      "date": "2024-07-20",
+      "city": "南京",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-2.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "青蓝兜帽",
+        "黄色身体",
+        "三孔表情",
+        "口袋"
+      ],
+      "personality": "初印象内容以可爱和反复下蹲动作制造记忆。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251789051925292.html",
+      "recommendation": "优先做软包、抱枕与口袋功能；把下蹲动作做成人偶固定互动。",
+      "products": [
+        "P001",
+        "P002",
+        "P016",
+        "P017",
+        "P018",
+        "P021",
+        "P022",
+        "P029",
+        "P034",
+        "P035",
+        "P039",
+        "P057"
+      ],
+      "productFamilies": 12,
+      "individualFamilies": 8,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 3,
+      "name": "福塔",
+      "en": "Futa",
+      "date": "2024-08-17",
+      "city": "郑州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-3.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "粉紫身体",
+        "额头电纹",
+        "三孔五官",
+        "拳套"
+      ],
+      "personality": "自称本王，表达吃掉一切、爱上一切。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251790347440418.html",
+      "recommendation": "用本王口吻和贪吃行为做内容；卷尺等功能品可继续形成代表产品。",
+      "products": [
+        "P001",
+        "P002",
+        "P016",
+        "P017",
+        "P018",
+        "P019",
+        "P021",
+        "P022",
+        "P027",
+        "P029",
+        "P034",
+        "P035",
+        "P037",
+        "P057"
+      ],
+      "productFamilies": 14,
+      "individualFamilies": 10,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 4,
+      "name": "怦怦",
+      "en": "Bomb",
+      "date": "2024-08-31",
+      "city": "合肥",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-4.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "红桃心身体",
+        "双角",
+        "黑白长腿",
+        "创可贴"
+      ],
+      "personality": "红桃心形象，喜欢跳舞，以跷腿等动作提供情绪价值。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251791543599709.html",
+      "recommendation": "围绕关系与情绪做双人礼物；摆件突出心形轮廓和长腿节奏。",
+      "products": [
+        "P001",
+        "P016",
+        "P021",
+        "P022",
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 8,
+      "individualFamilies": 4,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 5,
+      "name": "桃浦万",
+      "en": "Top one",
+      "date": "2024-09-17",
+      "city": "苏州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-5.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "粉色旋涡头",
+        "黑白长臂",
+        "外露牙齿",
+        "缝线"
+      ],
+      "personality": "在初印象中玩自嘲外号梗，表现出怪趣与反差。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251792700441243.html",
+      "recommendation": "先测试自嘲怪趣的接受度；避免为追求大众可爱而消除原有反差。",
+      "products": [
+        "P021",
+        "P022",
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 6,
+      "individualFamilies": 2,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 6,
+      "name": "嗨皮牙",
+      "en": "Happy",
+      "date": "2024-09-27",
+      "city": "天津",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-6.webp",
+      "sheet": "assets/roles1.webp",
+      "elements": [
+        "独眼",
+        "大嘴露齿",
+        "闪电双臂",
+        "条纹长腿"
+      ],
+      "personality": "擅长舞蹈，初印象突出网感和表演。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251793903682051.html",
+      "recommendation": "用舞蹈和显眼包互动积累内容；把大嘴独眼统一为商品第一识别点。",
+      "products": [
+        "P001",
+        "P016",
+        "P021",
+        "P027",
+        "P029",
+        "P034",
+        "P035",
+        "P040",
+        "P042",
+        "P057"
+      ],
+      "productFamilies": 10,
+      "individualFamilies": 6,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 7,
+      "name": "酥坡曼",
+      "en": "Superman",
+      "date": "2024-10-12",
+      "city": "杭州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-7.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "眼柄触角",
+        "拉链嘴",
+        "外穿短裤",
+        "多层手掌"
+      ],
+      "personality": "用内裤外穿和守护者表达制造幽默。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251795360419568.html",
+      "recommendation": "发展笨拙英雄故事；小尺寸产品压缩手掌和触角细节。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 8,
+      "name": "咘焦绿",
+      "en": "Don’t worry",
+      "date": "2024-10-25",
+      "city": "上海",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-8.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "绿色毛边",
+        "头部闪电",
+        "黄色爪",
+        "腹部电纹"
+      ],
+      "personality": "以无公害外貌、卖萌拉票作为初印象。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251796588306852.html",
+      "recommendation": "先验证角色个性；在商品中保留绿色毛边和电纹，避免只靠松弛文案。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 9,
+      "name": "鲨啦啦",
+      "en": "Shalala",
+      "date": "2024-11-01",
+      "city": "深圳",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-9.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "尖长头部",
+        "鱼鳍与鱼尾",
+        "薄荷蓝绿",
+        "心形腹纹"
+      ],
+      "personality": "借歌曲谐音梗进行拉票，完整性格待补。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251797855764780.html",
+      "recommendation": "尖头鱼形适合轮廓收藏与水边场景；先用短内容验证辨识度。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 10,
+      "name": "火辣辣",
+      "en": "Hothot",
+      "date": "2024-11-16",
+      "city": "重庆",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": true,
+      "image": "assets/role-10.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "长角",
+        "粉红毛边",
+        "心形鼻",
+        "红色长腿"
+      ],
+      "personality": "官方命名介绍强调火辣、能量喷涌和热烈狂欢。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5211114587033446.html",
+      "recommendation": "做热烈外向的活动角色；围绕长角与脸部特征开发代表款。",
+      "products": [
+        "P001",
+        "P022",
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 6,
+      "individualFamilies": 2,
+      "heat": "六强已验证",
+      "priority": "重点验证"
+    },
+    {
+      "id": 11,
+      "name": "咘蓝朵",
+      "en": "Brando",
+      "date": "2024-12-06",
+      "city": "苏州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-11.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "蓝色毛发",
+        "闪电长角",
+        "腹部闪电",
+        "露齿笑"
+      ],
+      "personality": "初印象强调靠谱、牛奶与想看世界。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251800307338837.html",
+      "recommendation": "尝试可靠伙伴与出游内容；毛绒保持闪电长角结构的安全和耐用。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 12,
+      "name": "火泷果",
+      "en": "Lying fruit",
+      "date": "2025-03-21",
+      "city": "北京",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-12.webp",
+      "sheet": "assets/roles2.webp",
+      "elements": [
+        "粉色果身",
+        "绿色种子",
+        "大耳长角",
+        "绷带小腿"
+      ],
+      "personality": "喜欢坐躺、手不停，并有为城主翻译的行为。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251801508479633.html",
+      "recommendation": "坐躺姿态适合桌面毛绒；用懒动作与忙碌双手形成反差内容。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 13,
+      "name": "橙来迟了",
+      "en": "Delay",
+      "date": "2025-04-11",
+      "city": "合肥",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-13.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "橙色身体",
+        "独眼",
+        "环状眼框",
+        "闪电尾"
+      ],
+      "personality": "初印象以不delay、刷牙、捡话筒等行为制造反差。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251802859572271.html",
+      "recommendation": "用迟到与不迟到反差做短内容；独眼橙色轮廓适合小挂件。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 14,
+      "name": "绿由器",
+      "en": "Wifi",
+      "date": "2025-05-16",
+      "city": "南京",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-14.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "三根蓝色天线",
+        "三眼",
+        "绿蓝撞色",
+        "叠心身体"
+      ],
+      "personality": "完整性格待官方设定确认，暂不按名字推断。",
+      "personalityStatus": "待核实",
+      "personalitySource": "https://www.sina.cn/news/detail/5251817866791512.html",
+      "recommendation": "先补充官方性格与行为；可测试连接、同频主题的互动概念。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 15,
+      "name": "合不龙嘴",
+      "en": "Open",
+      "date": "2025-06-13",
+      "city": "沈阳",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-15.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "鹿角",
+        "橙色胡须",
+        "蓝色衣身",
+        "裂心胸口"
+      ],
+      "personality": "喜欢体育，以空气投篮等动作表达。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251805463452104.html",
+      "recommendation": "将运动动作转为人偶互动栏目；测试投篮或球类小配件。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 16,
+      "name": "动磁哒磁",
+      "en": "DJ",
+      "date": "2025-06-27",
+      "city": "太原",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-16.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "磁带头",
+        "双天线",
+        "红黄撞色",
+        "毛边裤脚"
+      ],
+      "personality": "工作室PK文案称专业DJ、活力蹦迪。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5252789346238865.html",
+      "recommendation": "音乐造型最直接，适合节奏互动和桌面装置；需验证声音功能的成本。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "造型试验"
+    },
+    {
+      "id": 17,
+      "name": "蓝波兔",
+      "en": "Rabbit two",
+      "date": "2025-07-12",
+      "city": "兰州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-17.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "屏幕头",
+        "十字耳",
+        "不对称眼",
+        "闪电腿"
+      ],
+      "personality": "初印象呈现争第一的竞争心。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251807745671256.html",
+      "recommendation": "屏幕脸可做表情切换内容；测试手机支架、桌面角色配件。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "造型试验"
+    },
+    {
+      "id": 18,
+      "name": "菇得拜",
+      "en": "Goodbye",
+      "date": "2025-07-25",
+      "city": "深圳",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-18.webp",
+      "sheet": "assets/roles3.webp",
+      "elements": [
+        "蘑菇帽",
+        "黄色长毛",
+        "裂心胸口",
+        "红色鞋"
+      ],
+      "personality": "围绕大蘑菇与拒绝被当木鱼敲头形成互动。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251809086013641.html",
+      "recommendation": "保留蘑菇帽识别，发展帽子互动；避免只作为受敲打道具。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "造型试验"
+    },
+    {
+      "id": 19,
+      "name": "放青松",
+      "en": "Relax",
+      "date": "2025-08-08",
+      "city": "西宁",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-19.webp",
+      "sheet": "assets/roles4.webp",
+      "elements": [
+        "绿色锥形身体",
+        "爱心头饰",
+        "交叉眼",
+        "锯齿嘴"
+      ],
+      "personality": "初印象有头转话筒与坚持练习的表现。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251810321498588.html",
+      "recommendation": "以练习行为形成成长线；锥形身体适合坐姿毛绒。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 20,
+      "name": "蓝不岛",
+      "en": "So easy",
+      "date": "2025-08-22",
+      "city": "青岛",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-20.webp",
+      "sheet": "assets/roles4.webp",
+      "elements": [
+        "蓝色柱状头",
+        "十字眼",
+        "白色心纹",
+        "分节四肢"
+      ],
+      "personality": "强调解决问题、愿意做螺丝钉。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251811737075923.html",
+      "recommendation": "发展解决小问题的日常角色；功能品需与已确认行为一致。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 21,
+      "name": "没柿哒",
+      "en": "Okk",
+      "date": "2025-09-12",
+      "city": "南京",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-21.webp",
+      "sheet": "assets/roles4.webp",
+      "elements": [
+        "橙黄毛绒",
+        "闪电双角",
+        "斜眉",
+        "獠牙"
+      ],
+      "personality": "初印象提到健身、以城主为榜样。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251812850139176.html",
+      "recommendation": "健身和努力方向可做挑战内容；测试运动搭子挂件。",
+      "products": [
+        "P021",
+        "P022",
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 6,
+      "individualFamilies": 2,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    },
+    {
+      "id": 22,
+      "name": "福来",
+      "en": "Welcome",
+      "date": "2025-09-26",
+      "city": "福州",
+      "dateStatus": "粉丝图鉴标注生日／命名线索；首次登台待核",
+      "debut": "首次登台日期未核实",
+      "six": false,
+      "image": "assets/role-22.webp",
+      "sheet": "assets/roles4.webp",
+      "elements": [
+        "条纹多角",
+        "红鼻",
+        "裂心腹纹",
+        "白手套"
+      ],
+      "personality": "初印象包含向李思睿拉票；不足以确定完整性格。",
+      "personalityStatus": "官方内容行为摘要",
+      "personalitySource": "https://www.sina.cn/news/detail/5251814161121526.html",
+      "recommendation": "先补完整性格；多角造型适合现场欢迎动作，收藏版需减少结构负担。",
+      "products": [
+        "P029",
+        "P034",
+        "P035",
+        "P057"
+      ],
+      "productFamilies": 4,
+      "individualFamilies": 0,
+      "heat": "未建立可比热度",
+      "priority": "内容培育"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "扁扁毛绒挂件",
+      "series": "集合吧！伙伴",
+      "category": "毛绒挂件",
+      "roles": [
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "嗨皮牙",
+        "火辣辣"
+      ],
+      "variants": 6,
+      "image": "assets/flat.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-03-22",
+      "price": null,
+      "note": "六个怪兽分别成款；素龙属于另列的既往款。",
+      "sale": "零售"
+    },
+    {
+      "id": "P002",
+      "name": "毛绒托特包",
+      "series": "集合吧！伙伴",
+      "category": "箱包",
+      "roles": [
+        "素龙",
+        "囧囧囧",
+        "福塔"
+      ],
+      "variants": 3,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-04-03",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P003",
+      "name": "素龙毛绒挂件",
+      "series": "素龙旅行与日常",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P004",
+      "name": "素龙毛绒随身镜",
+      "series": "素龙旅行与日常",
+      "category": "生活用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P005",
+      "name": "素龙毛绒披肩盖毯",
+      "series": "素龙旅行与日常",
+      "category": "家居织物",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P006",
+      "name": "素龙旅行带帽毛绒颈枕",
+      "series": "素龙旅行与日常",
+      "category": "旅行用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P007",
+      "name": "素龙旅行毛绒眼罩",
+      "series": "素龙旅行与日常",
+      "category": "旅行用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P008",
+      "name": "素龙旅行硅胶行李牌",
+      "series": "素龙旅行与日常",
+      "category": "旅行用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/tote.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "名称结合用户图板与公开发售清单；历史上新日待逐款确认。",
+      "sale": "零售"
+    },
+    {
+      "id": "P009",
+      "name": "十万伏特主题毛绒公仔",
+      "series": "巡演周边",
+      "category": "毛绒公仔",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 2,
+      "image": "assets/h5.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图中黑色与粉色版本，作为两款变体记录。",
+      "sale": "零售"
+    },
+    {
+      "id": "P010",
+      "name": "素龙薯条包",
+      "series": "巡演周边",
+      "category": "箱包",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/h5.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P011",
+      "name": "素龙毛绒斜挎包",
+      "series": "巡演周边",
+      "category": "箱包",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/h5.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P012",
+      "name": "罗曼灯棒",
+      "series": "巡演周边",
+      "category": "应援用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/concert.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-04-15",
+      "price": null,
+      "note": "不同巡演灯棒版本不能凭此合并推算全历史SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P013",
+      "name": "主题T恤",
+      "series": "明日世界",
+      "category": "服饰",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 2,
+      "image": "assets/concert.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-04-15",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P014",
+      "name": "帆布袋",
+      "series": "明日世界",
+      "category": "箱包",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/concert.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-04-15",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P015",
+      "name": "城市限定徽章",
+      "series": "明日世界",
+      "category": "徽章",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/concert.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "北京款可见；全城市完整款式数待核。",
+      "sale": "零售"
+    },
+    {
+      "id": "P016",
+      "name": "包子头套毛绒公仔",
+      "series": "笼笼包子铺",
+      "category": "毛绒公仔",
+      "roles": [
+        "素龙",
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "嗨皮牙"
+      ],
+      "variants": 6,
+      "image": "assets/bun.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-06-19",
+      "price": null,
+      "note": "六款包含素龙、瞐瞐、囧囧囧、福塔、怦怦、嗨皮牙；粉丝图板日期作上新线索。",
+      "sale": "零售"
+    },
+    {
+      "id": "P017",
+      "name": "公仔随心搭挂绳",
+      "series": "笼笼包子铺",
+      "category": "挂绳",
+      "roles": [
+        "素龙",
+        "囧囧囧",
+        "福塔"
+      ],
+      "variants": 3,
+      "image": "assets/h5.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-06-16",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P018",
+      "name": "挂式擦手巾",
+      "series": "笼笼包子铺",
+      "category": "家居织物",
+      "roles": [
+        "素龙",
+        "囧囧囧",
+        "福塔"
+      ],
+      "variants": 3,
+      "image": "assets/h5.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-06-16",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P019",
+      "name": "福塔醋大王卡通卷尺",
+      "series": "笼笼包子铺",
+      "category": "生活用品",
+      "roles": [
+        "福塔"
+      ],
+      "variants": 1,
+      "image": "assets/bun.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "公开发售清单有明确名称；需补价格。",
+      "sale": "零售"
+    },
+    {
+      "id": "P020",
+      "name": "发光招牌冰箱贴",
+      "series": "笼笼包子铺",
+      "category": "冰箱贴",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/bun.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P021",
+      "name": "刺绣徽章盲盒",
+      "series": "笼笼包子铺",
+      "category": "徽章",
+      "roles": [
+        "素龙",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "没柿哒",
+        "嗨皮牙"
+      ],
+      "variants": 7,
+      "image": "assets/h7.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图中七款，嗨皮牙标注隐藏款；不等同七个商品链接。",
+      "sale": "零售"
+    },
+    {
+      "id": "P022",
+      "name": "笼笼包子挂件",
+      "series": "笼笼包子铺",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "火辣辣",
+        "没柿哒"
+      ],
+      "variants": 7,
+      "image": "assets/h7.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-05-29",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P023",
+      "name": "素龙毛绒收纳包",
+      "series": "笼笼包子铺",
+      "category": "箱包",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/h7.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-04-29",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P024",
+      "name": "素龙餐具套组",
+      "series": "笼笼包子铺",
+      "category": "生活用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/h7.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "套组记作一个款式，不拆成盘、碗、筷等多个SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P025",
+      "name": "素龙冰淇淋主题挂件",
+      "series": "夏日与XR",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/new-july.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-07-02",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P026",
+      "name": "屏幕趴趴毛绒公仔",
+      "series": "夏日与XR",
+      "category": "毛绒公仔",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/new-july.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-07-02",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P027",
+      "name": "毛绒随身杯挂件",
+      "series": "夏日与XR",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙",
+        "福塔",
+        "嗨皮牙"
+      ],
+      "variants": 3,
+      "image": "assets/new-july.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "2026-07-02",
+      "price": null,
+      "note": "名称为图示归类，正式商品名称待核。",
+      "sale": "零售"
+    },
+    {
+      "id": "P028",
+      "name": "素龙卧式毛绒公仔",
+      "series": "素龙旅行与日常",
+      "category": "毛绒公仔",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/flat.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P029",
+      "name": "罗曼公民冰箱贴",
+      "series": "罗曼公民",
+      "category": "冰箱贴",
+      "roles": [
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "嗨皮牙",
+        "酥坡曼",
+        "咘焦绿",
+        "鲨啦啦",
+        "火辣辣",
+        "咘蓝朵",
+        "火泷果",
+        "橙来迟了",
+        "绿由器",
+        "合不龙嘴",
+        "动磁哒磁",
+        "蓝波兔",
+        "菇得拜",
+        "放青松",
+        "蓝不岛",
+        "没柿哒",
+        "福来",
+        "素龙"
+      ],
+      "variants": 26,
+      "image": "assets/magnets1.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "两张图共26个可见款式：22个怪兽、2个素龙隐藏款与2个罗曼城款。角色名可在原图核对。",
+      "sale": "零售"
+    },
+    {
+      "id": "P030",
+      "name": "城市限定刺绣徽章",
+      "series": "十万伏特",
+      "category": "徽章",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 17,
+      "image": "assets/citybadge.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "本次图板收录17款；不代表完整历史发行数。",
+      "sale": "零售"
+    },
+    {
+      "id": "P031",
+      "name": "罗曼城城市徽章",
+      "series": "明日世界",
+      "category": "徽章",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 6,
+      "image": "assets/may.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图板可见六款；与后续不同城市版本可能有重合，不合并为全历史SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P032",
+      "name": "共建罗曼城物料包",
+      "series": "XR唤醒计划",
+      "category": "纸品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/xr.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "包含多种票卡、贴纸、地图等，尚未逐项核完。",
+      "sale": "零售"
+    },
+    {
+      "id": "P033",
+      "name": "集章卡与纪念卡",
+      "series": "XR唤醒计划",
+      "category": "纸品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/xr.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "活动物料"
+    },
+    {
+      "id": "P034",
+      "name": "罗曼公民主题卡册",
+      "series": "罗曼公民",
+      "category": "纸品",
+      "roles": [
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "嗨皮牙",
+        "酥坡曼",
+        "咘焦绿",
+        "鲨啦啦",
+        "火辣辣",
+        "咘蓝朵",
+        "火泷果",
+        "橙来迟了",
+        "绿由器",
+        "合不龙嘴",
+        "动磁哒磁",
+        "蓝波兔",
+        "菇得拜",
+        "放青松",
+        "蓝不岛",
+        "没柿哒",
+        "福来"
+      ],
+      "variants": 1,
+      "image": "assets/pin.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "角色集体图案；不将卡册中每个角色视为独立SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P035",
+      "name": "罗曼101角色卡片",
+      "series": "罗曼101",
+      "category": "纸品",
+      "roles": [
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "嗨皮牙",
+        "酥坡曼",
+        "咘焦绿",
+        "鲨啦啦",
+        "火辣辣",
+        "咘蓝朵",
+        "火泷果",
+        "橙来迟了",
+        "绿由器",
+        "合不龙嘴",
+        "动磁哒磁",
+        "蓝波兔",
+        "菇得拜",
+        "放青松",
+        "蓝不岛",
+        "没柿哒",
+        "福来"
+      ],
+      "variants": null,
+      "image": "assets/pin.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "可见集体卡片，单卡是否独立售卖待核。",
+      "sale": "零售"
+    },
+    {
+      "id": "P036",
+      "name": "罗曼城贴纸／场景纸品",
+      "series": "罗曼公民",
+      "category": "纸品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/pin.webp",
+      "source": "S3",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P037",
+      "name": "雨天散步毛绒公仔挂件",
+      "series": "罗曼搭子",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙",
+        "福塔"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 159,
+      "note": "双角色一组作为一个款式，不把两个角色拆成两个SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P038",
+      "name": "陪我失眠毛绒公仔挂件",
+      "series": "罗曼搭子",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙",
+        "瞐瞐"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 159,
+      "note": "双角色一组作为一个款式，不把两个角色拆成两个SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P039",
+      "name": "睡前故事毛绒公仔挂件",
+      "series": "罗曼搭子",
+      "category": "毛绒挂件",
+      "roles": [
+        "素龙",
+        "囧囧囧"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 159,
+      "note": "双角色一组作为一个款式，不把两个角色拆成两个SKU。",
+      "sale": "零售"
+    },
+    {
+      "id": "P040",
+      "name": "嗨皮牙毛绒盆栽",
+      "series": "罗曼搭子",
+      "category": "毛绒公仔",
+      "roles": [
+        "嗨皮牙"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 159,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P041",
+      "name": "素龙毛绒趴肩公仔",
+      "series": "罗曼搭子",
+      "category": "毛绒公仔",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 109,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P042",
+      "name": "嗨皮牙毛绒趴肩公仔",
+      "series": "罗曼搭子",
+      "category": "毛绒公仔",
+      "roles": [
+        "嗨皮牙"
+      ],
+      "variants": 1,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 109,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P043",
+      "name": "金属徽章盲盒",
+      "series": "罗曼搭子",
+      "category": "徽章",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 13,
+      "image": "assets/buddy.webp",
+      "source": "S2",
+      "evidence": "官方图文",
+      "date": "2026-08-12",
+      "price": 59,
+      "note": "12常规＋1隐藏；因组合角色较多，未逐个计入角色独立产品数。",
+      "sale": "零售"
+    },
+    {
+      "id": "P044",
+      "name": "主题托特包",
+      "series": "城市与鸟巢限定",
+      "category": "箱包",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P045",
+      "name": "主题棒球帽",
+      "series": "城市与鸟巢限定",
+      "category": "服饰",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P046",
+      "name": "素龙卡套挂件",
+      "series": "城市与鸟巢限定",
+      "category": "生活用品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 2,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图中两种卡面版本。",
+      "sale": "零售"
+    },
+    {
+      "id": "P047",
+      "name": "素龙安全座椅冰箱贴",
+      "series": "城市与鸟巢限定",
+      "category": "冰箱贴",
+      "roles": [
+        "素龙"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P048",
+      "name": "北京鸟巢主题纪念币",
+      "series": "城市与鸟巢限定",
+      "category": "收藏小物",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "可见成组纪念币；未拆分未核实款式。",
+      "sale": "零售"
+    },
+    {
+      "id": "P049",
+      "name": "鸟巢限定积木冰箱贴",
+      "series": "城市与鸟巢限定",
+      "category": "冰箱贴",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P050",
+      "name": "鸟巢限定金属通行牌",
+      "series": "城市与鸟巢限定",
+      "category": "收藏小物",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "正式品名待品牌核对。",
+      "sale": "零售"
+    },
+    {
+      "id": "P051",
+      "name": "鸟巢限定水杯",
+      "series": "城市与鸟巢限定",
+      "category": "生活用品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 2,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图中两种杯身。",
+      "sale": "零售"
+    },
+    {
+      "id": "P052",
+      "name": "鸟巢限定渔夫帽",
+      "series": "城市与鸟巢限定",
+      "category": "服饰",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P053",
+      "name": "鸟巢限定胸包",
+      "series": "城市与鸟巢限定",
+      "category": "箱包",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p3.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P054",
+      "name": "主题巧克力礼盒",
+      "series": "城市与鸟巢限定",
+      "category": "食品包装",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P055",
+      "name": "随行口袋保温杯",
+      "series": "城市与鸟巢限定",
+      "category": "生活用品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P056",
+      "name": "城市主题立体积木冰箱贴",
+      "series": "城市与鸟巢限定",
+      "category": "冰箱贴",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P057",
+      "name": "小怪物胶卷相纸",
+      "series": "城市与鸟巢限定",
+      "category": "纸品",
+      "roles": [
+        "瞐瞐",
+        "囧囧囧",
+        "福塔",
+        "怦怦",
+        "桃浦万",
+        "嗨皮牙",
+        "酥坡曼",
+        "咘焦绿",
+        "鲨啦啦",
+        "火辣辣",
+        "咘蓝朵",
+        "火泷果",
+        "橙来迟了",
+        "绿由器",
+        "合不龙嘴",
+        "动磁哒磁",
+        "蓝波兔",
+        "菇得拜",
+        "放青松",
+        "蓝不岛",
+        "没柿哒",
+        "福来"
+      ],
+      "variants": null,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图中条状角色相纸，完整可售规格待核。",
+      "sale": "零售"
+    },
+    {
+      "id": "P058",
+      "name": "罗曼星球购物袋",
+      "series": "城市与鸟巢限定",
+      "category": "箱包",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 2,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "零售"
+    },
+    {
+      "id": "P059",
+      "name": "主题扩香用品",
+      "series": "城市与鸟巢限定",
+      "category": "生活用品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": null,
+      "image": "assets/p5.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "图示归类，完整品名与规格待核。",
+      "sale": "零售"
+    },
+    {
+      "id": "P060",
+      "name": "主题纸袋／包装",
+      "series": "麦当劳合作",
+      "category": "食品包装",
+      "roles": [
+        "素龙"
+      ],
+      "variants": null,
+      "image": "assets/mcdonalds1.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "含艺人合作内容，不能自动等同纯角色授权。",
+      "sale": "品牌合作物料"
+    },
+    {
+      "id": "P061",
+      "name": "汪苏泷艺人小卡",
+      "series": "麦当劳合作",
+      "category": "艺人小卡",
+      "roles": [
+        "汪苏泷"
+      ],
+      "variants": null,
+      "image": "assets/mcdonalds2.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "作为艺人合作单列，不计22怪兽独立开发覆盖。",
+      "sale": "品牌合作物料"
+    },
+    {
+      "id": "P062",
+      "name": "联名口袋收纳包",
+      "series": "麦当劳合作",
+      "category": "生活用品",
+      "roles": [
+        "品牌集体"
+      ],
+      "variants": 1,
+      "image": "assets/mcdonalds1.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "品牌合作物料"
+    },
+    {
+      "id": "P063",
+      "name": "甜品造型周边",
+      "series": "麦当劳合作",
+      "category": "收藏小物",
+      "roles": [
+        "素龙"
+      ],
+      "variants": null,
+      "image": "assets/mcdonalds1.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "",
+      "sale": "品牌合作物料"
+    },
+    {
+      "id": "P064",
+      "name": "茶饮合作挂件与打卡礼",
+      "series": "茉莉奶白合作",
+      "category": "活动赠品",
+      "roles": [
+        "素龙"
+      ],
+      "variants": null,
+      "image": "assets/flavor.webp",
+      "source": "S1",
+      "evidence": "图中可见",
+      "date": "",
+      "price": null,
+      "note": "用户汇总图中可见；合作权益与正式清单待核。",
+      "sale": "品牌合作物料"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "name": "罗曼星球周边与联名汇总2.0",
+      "type": "粉丝汇总",
+      "author": "咚咚桐桐",
+      "url": "https://www.xiaohongshu.com/explore/6a638a000000000001030318",
+      "date": "2026-08-12 编辑线索",
+      "note": "产品图片与品类盘点，非官方全量SKU表；包含艺人合作物料。"
+    },
+    {
+      "id": "S2",
+      "name": "罗曼搭子即将与你见面",
+      "type": "品牌账号",
+      "author": "罗曼星球ROMANOVA",
+      "url": "https://www.xiaohongshu.com/explore/6a7b68490000000033034b54",
+      "date": "2026-08-12",
+      "note": "4商品类别，19个款式变体；159／109／59元为该图发布价，非当前成交价。"
+    },
+    {
+      "id": "S3",
+      "name": "罗曼星球周边大汇总",
+      "type": "粉丝汇总",
+      "author": "咚咚桐桐",
+      "url": "https://www.xiaohongshu.com/explore/6a449d6c000000001700809a",
+      "date": "2026-07-17 编辑线索",
+      "note": "历史上新图板与产品可见线索；日期尚非逐项官方核验。"
+    },
+    {
+      "id": "S4",
+      "name": "罗曼公民小怪物档案",
+      "type": "粉丝图鉴",
+      "author": "用户整理",
+      "url": "https://www.xiaohongshu.com/explore/6a2d70d8000000000803f981",
+      "date": "2026-07-08 编辑线索",
+      "note": "平面设定、人偶对照、图中生日和城市。拼图排版与文字不作为官方规范。"
+    },
+    {
+      "id": "S5",
+      "name": "22位小怪物公式照全员公开",
+      "type": "工作室发布",
+      "author": "汪苏泷Studio",
+      "url": "https://www.sina.cn/news/detail/5251697153671887.html",
+      "date": "2026-01-05",
+      "note": "确认名单、英文名、取名顺序；不是22角色共同首秀日。"
+    },
+    {
+      "id": "S6",
+      "name": "罗曼101最终六强",
+      "type": "工作室发布",
+      "author": "汪苏泷Studio",
+      "url": "https://www.sina.cn/news/detail/5253580879036804.html",
+      "date": "2026-01-10",
+      "note": "嗨皮牙、福塔、囧囧囧、火辣辣、瞐瞐、怦怦；无内部名次，不等于当前大众热度。"
+    },
+    {
+      "id": "S7",
+      "name": "22怪兽初印象与选拔规则",
+      "type": "艺人发布",
+      "author": "汪苏泷",
+      "url": "https://www.sina.cn/news/detail/5251817866791512.html",
+      "date": "2026-01-05",
+      "note": "首轮48小时转评赞前12晋级；原内容强调角色本怪拍摄剪辑，表演者人格与长期角色设定需分开。"
+    },
+    {
+      "id": "S8",
+      "name": "罗曼星球旗舰店开业",
+      "type": "品牌公开发布镜像",
+      "author": "公开发布",
+      "url": "https://www.sina.cn/news/detail/5278660986667668.html",
+      "date": "2026-03",
+      "note": "伙伴系列与旅行系列发售节点。"
+    },
+    {
+      "id": "S9",
+      "name": "附件公开调研报告",
+      "type": "用户提供",
+      "author": "用户附件",
+      "url": "",
+      "date": "截止2026-10-09",
+      "note": "用于背景与线索，未直接采用工商、销量或人次估计作为战略事实。"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "罗曼搭子官方发布图",
+      "image": "assets/buddy.webp",
+      "source": "S2"
+    },
+    {
+      "name": "伙伴系列扁扁挂件",
+      "image": "assets/flat.webp",
+      "source": "S3"
+    },
+    {
+      "name": "毛绒托特与素龙旅行",
+      "image": "assets/tote.webp",
+      "source": "S3"
+    },
+    {
+      "name": "包子头套毛绒",
+      "image": "assets/bun.webp",
+      "source": "S3"
+    },
+    {
+      "name": "夏日／XR新品",
+      "image": "assets/new-july.webp",
+      "source": "S3"
+    },
+    {
+      "name": "公民冰箱贴 上",
+      "image": "assets/magnets1.webp",
+      "source": "S3"
+    },
+    {
+      "name": "公民冰箱贴 下",
+      "image": "assets/magnets2.webp",
+      "source": "S3"
+    },
+    {
+      "name": "城市限定刺绣徽章",
+      "image": "assets/citybadge.webp",
+      "source": "S3"
+    },
+    {
+      "name": "XR物料",
+      "image": "assets/xr.webp",
+      "source": "S3"
+    },
+    {
+      "name": "罗曼101与集体纸品",
+      "image": "assets/pin.webp",
+      "source": "S3"
+    },
+    {
+      "name": "鸟巢／城市限定",
+      "image": "assets/p3.webp",
+      "source": "S1"
+    },
+    {
+      "name": "城市新品延展",
+      "image": "assets/p5.webp",
+      "source": "S1"
+    },
+    {
+      "name": "麦当劳合作物料",
+      "image": "assets/mcdonalds1.webp",
+      "source": "S1"
+    },
+    {
+      "name": "麦当劳艺人小卡",
+      "image": "assets/mcdonalds2.webp",
+      "source": "S1"
+    },
+    {
+      "name": "茶饮合作线索",
+      "image": "assets/flavor.webp",
+      "source": "S1"
+    }
+  ],
+  "observed": "2026-10-15",
+  "stats": {
+    "productRecords": 64,
+    "knownVariants": 145,
+    "categories": 16,
+    "series": 14,
+    "unknownVariants": 12
+  }
+}
